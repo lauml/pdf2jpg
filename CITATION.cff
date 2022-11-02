@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Klappenbach
+    given-names: Lou
+    orcid: https://orcid.org/0000-0001-6587-3353
+title: "Converting PDF to JPG without losing quality"
+version: 1.0.0
+doi:
+date-released: 2022-11-02
