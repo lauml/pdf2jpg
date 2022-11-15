@@ -15,7 +15,7 @@ The aim was to find an easy way of converting pdf files to jpgs without losing q
 
 ### Getting started
 
-* Download and install [Imagemackig](https://imagemagick.org/script/download.php)
+* Download and install [Imagemagick](https://imagemagick.org/script/download.php)
 * pull script [pdf2jpg.py](pdf2jpg.py) and save it to a local folder
 
 ### Run script
