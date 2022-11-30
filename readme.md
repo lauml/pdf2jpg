@@ -16,6 +16,7 @@ The aim was to find an easy way of converting pdf files to jpgs without losing q
 ### Getting started
 
 * Download and install [Imagemagick](https://imagemagick.org/script/download.php)
+* install https://www.ghostscript.com/releases/gsdnld.html
 * pull script [pdf2jpg.py](pdf2jpg.py) and save it to a local folder
 
 ### Run script
@@ -27,3 +28,4 @@ The aim was to find an easy way of converting pdf files to jpgs without losing q
 ### Further Information
 
 * Information on keeping hiqh resolution: [stackoverflow](https://stackoverflow.com/questions/6605006/convert-pdf-to-image-with-high-resolution)
+* https://stackoverflow.com/questions/32466112/imagemagick-convert-pdf-to-jpeg-failedtoexecutecommand-gswin32c-exe-pdfdel
